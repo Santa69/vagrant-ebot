@@ -1,6 +1,6 @@
 required
 ====================
-Virtual Box
+VirtualBox
 Vagrant
 
 
