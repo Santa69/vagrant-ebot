@@ -19,7 +19,9 @@ Installation
 ``Linux & Mac``
 ---------------
 open terminal
+
 chmod for the folder 
+
 execute`` ./createVagrant.sh``
 
 ``Windows 10``
