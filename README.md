@@ -1,8 +1,14 @@
-required
+Compatibility
 ====================
-VirtualBox
+Windows 10
+OSX Sierra
+Linux Debian
 
-Vagrant
 
+required 
+====================
+``VirtualBox``
 
-CmderFull
+``Vagrant``
+
+``CmderFull`` for windows
