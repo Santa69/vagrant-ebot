@@ -1,5 +1,5 @@
 Requiere
 ====================
-``Virtual Box``
-``Vagrant``
-``CmderFull`` for windows
+``Virtual Box``.
+``Vagrant``.
+``CmderFull``. for windows
