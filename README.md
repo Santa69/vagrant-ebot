@@ -1,9 +1,10 @@
 Compatibility
 ====================
 Windows 10
-OSX Sierra
-Linux Debian
 
+OSX Sierra
+
+Linux Debian
 
 required 
 ====================
