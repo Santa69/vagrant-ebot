@@ -1,10 +1,10 @@
 Compatibility
 ====================
-Windows 10
+``Windows 10``
 
-OSX Sierra
+``OSX Sierra``
 
-Linux Debian
+``Linux Debian``
 
 required 
 ====================
